@@ -1,0 +1,13 @@
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\bin\Debug\ColorHeatMap.exe
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\bin\Debug\ColorHeatMap.pdb
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\obj\x86\Debug\ColorHeatMap.Form1.resources
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\obj\x86\Debug\ColorHeatMap.Properties.Resources.resources
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\obj\x86\Debug\ColorHeatMap.UserControl1.resources
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\obj\x86\Debug\ColorHeatMap.exe
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\obj\x86\Debug\ColorHeatMap.pdb
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\bin\Debug\ColorHeatMap.exe.config
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Roberto_2\Documents\Visual Studio 2010\Projects\ColorHeatMap\ColorHeatMap\obj\x86\Debug\ResGen.write.1.tlog

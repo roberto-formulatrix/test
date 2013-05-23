@@ -16,7 +16,11 @@ namespace ColorHeatMap
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+Console.Writeline("Hello111");
 // test
+Console.Writeline("Hello");
+int x = 3;
+// aahhh
         }
     }
 }

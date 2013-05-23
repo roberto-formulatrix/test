@@ -18,7 +18,7 @@ namespace ColorHeatMap
             Application.Run(new Form1());
 Console.Writeline("Hello111");
 // test
-Console.Writeline("Hello");
+Console.Writeline("Hello222");
 int x = 3;
 // aahhh
         }

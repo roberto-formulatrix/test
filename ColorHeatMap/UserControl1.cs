@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 namespace ColorHeatMap
 {
+// simple comment
     public partial class UserControl1 : UserControl
     {
         private Brush[] _paletteBrushes;
